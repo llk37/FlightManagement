@@ -1,6 +1,6 @@
 # Flight Management Database Application
 
-CM500292 Databases Coursework
+CM500292 Databases and Cloud Coursework
 
 ## Requirements
 
