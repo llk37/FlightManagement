@@ -4,7 +4,7 @@ CM500292 Databases Coursework
 
 ## Requirements
 
-Python 3.8 or later. No external packages needed — only the standard library (`sqlite3`, `re`, `datetime`).
+Python 3.8 or later. No external packages needed , only the standard library (`sqlite3`, `re`, `datetime`).
 
 ## Running the application
 
